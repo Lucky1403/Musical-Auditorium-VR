@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 75c315e3539682b47afa23e36a0284bd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 1
+    originalUri: Assets\Assets\01- Xylophone\01700d0bc8424541b04d1d5a3c21d793_N_CopperNormal.png
+    assetPath: Assets\Assets\01- Xylophone\01700d0bc8424541b04d1d5a3c21d793_N_CopperNormal.png
+  - type: 1
+    originalUri: Assets\Assets\01- Xylophone\b5e817a4e0e742f6933653e245de5a7a_RGB_CopperSurface_Color.png
+    assetPath: Assets\Assets\01- Xylophone\b5e817a4e0e742f6933653e245de5a7a_RGB_CopperSurface_Color.png
+  - type: 1
+    originalUri: Assets\Assets\01- Xylophone\f3b63610806642a4aff1754cda400ce8_RGB_Wood_OakSurface_Color.png
+    assetPath: Assets\Assets\01- Xylophone\f3b63610806642a4aff1754cda400ce8_RGB_Wood_OakSurface_Color.png
+  reportItems:
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []

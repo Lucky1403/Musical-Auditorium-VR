@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 4f0217bc5b4d90243a03a0fca0dda318
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\0b4ea555edb74fbb84ad0e14f9ea909e_R_Specular_White.png
+    assetPath: Assets\Assets\01- Standing.Microphone\0b4ea555edb74fbb84ad0e14f9ea909e_R_Specular_White.png
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\323e8134f7d24c66ac4c5e84f7abd342_R_Microphone_roughness.jpeg
+    assetPath: Assets\Assets\01- Standing.Microphone\323e8134f7d24c66ac4c5e84f7abd342_R_Microphone_roughness.jpeg
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\67fecb0fce0647149f3234f31d71ca4e_R_Specular_White.png
+    assetPath: Assets\Assets\01- Standing.Microphone\67fecb0fce0647149f3234f31d71ca4e_R_Specular_White.png
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\693dd1ec4e8f49d0a6933ee8af8f5fdf_N_Normals_Mic_Grid_29.jpeg
+    assetPath: Assets\Assets\01- Standing.Microphone\693dd1ec4e8f49d0a6933ee8af8f5fdf_N_Normals_Mic_Grid_29.jpeg
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\6ece25380392426f8ab7a591d9c6fe2f_R_Specular_White.png
+    assetPath: Assets\Assets\01- Standing.Microphone\6ece25380392426f8ab7a591d9c6fe2f_R_Specular_White.png
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\94998abd4fd14bd4804260a8fd0ab662_RGB_mic_grid.png
+    assetPath: Assets\Assets\01- Standing.Microphone\94998abd4fd14bd4804260a8fd0ab662_RGB_mic_grid.png
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\a151612c46654bf9b36b32d4f30c6ae4_RGB_Tx_Microphone.png
+    assetPath: Assets\Assets\01- Standing.Microphone\a151612c46654bf9b36b32d4f30c6ae4_RGB_Tx_Microphone.png
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\bb533f5e8c6c4fef970f574c8e7ae16a_RGB_Microphone_albedo.jpeg
+    assetPath: Assets\Assets\01- Standing.Microphone\bb533f5e8c6c4fef970f574c8e7ae16a_RGB_Microphone_albedo.jpeg
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\dd6f2a401c9e40c8b85ac61494e5c317_R_Microphone_spec.jpeg
+    assetPath: Assets\Assets\01- Standing.Microphone\dd6f2a401c9e40c8b85ac61494e5c317_R_Microphone_spec.jpeg
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\e4879c2ae0cc41c295f2d43f186edf1a_R_Microphone_ao.jpeg
+    assetPath: Assets\Assets\01- Standing.Microphone\e4879c2ae0cc41c295f2d43f186edf1a_R_Microphone_ao.jpeg
+  - type: 1
+    originalUri: Assets\Assets\01- Standing.Microphone\e5fa7a96450b4513b53c3cecdf03cc88_RGB_internal_ground_ao_texture.jpeg
+    assetPath: Assets\Assets\01- Standing.Microphone\e5fa7a96450b4513b53c3cecdf03cc88_RGB_internal_ground_ao_texture.jpeg
+  reportItems:
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []

@@ -1,0 +1,79 @@
+fileFormatVersion: 2
+guid: 39c71a05ce7841345a477e3fec785933
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 1
+    originalUri: Assets\01- Drum.Sticks\32679001990f462c8c2c9401623d0981_R_Drumsticks_lambert1_Roughness.png
+    assetPath: Assets\01- Drum.Sticks\32679001990f462c8c2c9401623d0981_R_Drumsticks_lambert1_Roughness.png
+  - type: 1
+    originalUri: Assets\01- Drum.Sticks\347b6c4097d449faa391c1e4269eb83c_RGB_internal_ground_ao_texture.jpeg
+    assetPath: Assets\01- Drum.Sticks\347b6c4097d449faa391c1e4269eb83c_RGB_internal_ground_ao_texture.jpeg
+  - type: 1
+    originalUri: Assets\01- Drum.Sticks\d23352598ff44804b8105ee9002531b3_RGB_Drumsticks_lambert1_BaseColor.png
+    assetPath: Assets\01- Drum.Sticks\d23352598ff44804b8105ee9002531b3_RGB_Drumsticks_lambert1_BaseColor.png
+  - type: 1
+    originalUri: Assets\01- Drum.Sticks\db1ce475e32d45d0aa04dc9aea60dc3c_R_Drumsticks_lambert1_Metallic.png
+    assetPath: Assets\01- Drum.Sticks\db1ce475e32d45d0aa04dc9aea60dc3c_R_Drumsticks_lambert1_Metallic.png
+  - type: 1
+    originalUri: Assets\01- Drum.Sticks\f2f20dbda98b493cb863d64fc8bdf8af_N_Drumsticks_lambert1_Normal.png
+    assetPath: Assets\01- Drum.Sticks\f2f20dbda98b493cb863d64fc8bdf8af_N_Drumsticks_lambert1_Normal.png
+  reportItems:
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
